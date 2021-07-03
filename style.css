@@ -1,0 +1,5 @@
+li:nth-child(odd){
+background-color: orangered;
+color: #fff;
+
+}
